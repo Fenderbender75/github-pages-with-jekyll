@@ -12,3 +12,8 @@ github_username:  fenderbende75 # DO NOT include the @ character, or else the bu
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---
+title: First Blog
+date: 2021-06-13
+---
+
